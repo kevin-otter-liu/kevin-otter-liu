@@ -5,7 +5,7 @@
 ## I'm a Developer and a TINKERER!!
 
 <a href="https://github.com/kevin-otter-liu/kevin-otter-liu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=kevin-otter-liu&theme=tokyonight">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevin-otter-liu&show_icons=true&hide_border=true&count_private=true&theme=tokyonight">
 </a>
 
 ---
