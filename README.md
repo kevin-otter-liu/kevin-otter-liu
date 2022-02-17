@@ -25,14 +25,26 @@
 ---
 
 ## 👏 Finished Projects
--[![Unity Game](https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=SSAD_Project&theme=tokyonight)](https://github.com/kevin-otter-liu/SSAD_Project)
--[![Data Science and AI](https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=cz1015-DSAI&theme=tokyonight)](https://github.com/kevin-otter-liu/Cz1015-DSAI)
--[![PERn login](https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=PERN-Login&theme=tokyonight)](https://github.com/kevin-otter-liu/PERN-Login)
+<a href="https://github.com/kevin-otter-liu/SSAD_Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=SSAD_Project&theme=tokyonight">
+</a>
+<a href="https://github.com/kevin-otter-liu/Cz1015-DSAI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=cz1015-DSAI&theme=tokyonight">
+</a>
+<a href="https://github.com/kevin-otter-liu/PERN-Login">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=PERN-Login&theme=tokyonight">
+</a>
 
 ## 👷 Ongoing Projects
--[![Finappsys - a finance app](https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=CZ3002-Project&theme=tokyonight)](https://github.com/kevin-otter-liu/CZ3002-Project)
--[![WAGMI - a crypto analysis app](https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=WAGMI&theme=tokyonight)](https://github.com/kevin-otter-liu/WAGMI)
--[![wagmiORngmiPredictor - a predictor for moonning NFTS](https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=wagmiORngmiPredictor&theme=tokyonight)](https://github.com/kevin-otter-liu/wagmiORngmiPredictor)
+<a href="https://github.com/kevin-otter-liu/SSAD_Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=CZ3002-Project&theme=tokyonight">
+</a>
+<a href="https://github.com/kevin-otter-liu/WAGMI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=WAGMI&theme=tokyonight">
+</a>
+<a href="https://github.com/kevin-otter-liu/wagmiORngmiPredictor">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=wagmiORngmiPredictor&theme=tokyonight">
+</a>
 
 
 ---
