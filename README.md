@@ -10,13 +10,17 @@
 
 ---
 
-### 👋 Connect with me:
+## 👋 Connect with me:
 - 🤝 [LinkedIn](https://www.linkedin.com/in/kevin-liu-kai-big-otter-codes)
 - 📧 [Email](kevinliudevelopes@gmail.com)
 
 ---
+## 🖥️ Industry experience
+1. Backend development of [Transcrypt Trading WebApp](https://transcryptglobal.com/home)
+2. Backend development of [TripleA Crypto Payment Services](https://dashboard.triple-a.io/login)
+---
 
-## Languages and Tools:
+## 🛠️ Languages and Tools:
 - JavaScript
 - NodeJS
 - ReactJS
@@ -39,7 +43,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=PERN-Login&theme=tokyonight">
 </a>
 
-## 👷 Ongoing Projects
+## ⏳ Ongoing Projects
 <a href="https://github.com/kevin-otter-liu/SSAD_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=CZ3002-Project&theme=tokyonight">
 </a>
@@ -49,8 +53,11 @@
 <a href="https://github.com/kevin-otter-liu/wagmiORngmiPredictor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=wagmiORngmiPredictor&theme=tokyonight">
 </a>
+---
 
-
+## 📚 Currently Learning
+1. Docker
+2. Bash Scripting
 ---
 
 ### 📕 Latest Blog Posts
