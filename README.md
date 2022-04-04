@@ -35,6 +35,9 @@
 ---
 
 ## 👏 Finished Projects
+<a href="https://github.com/kevin-otter-liu/CZ3002-Project">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=CZ3002-Project&theme=tokyonight">
+</a>
 <a href="https://github.com/kevin-otter-liu/SSAD_Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=SSAD_Project&theme=tokyonight">
 </a>
@@ -46,9 +49,6 @@
 </a>
 
 ## ⏳ Ongoing Projects
-<a href="https://github.com/kevin-otter-liu/SSAD_Project">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=CZ3002-Project&theme=tokyonight">
-</a>
 <a href="https://github.com/kevin-otter-liu/WAGMI">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=WAGMI&theme=tokyonight">
 </a>
@@ -60,6 +60,8 @@
 ## 📚 Currently Learning
 1. Docker
 2. Bash Scripting
+3. Kubernetes
+4. Terraform
 ---
 
 ### 📕 Latest Blog Posts
