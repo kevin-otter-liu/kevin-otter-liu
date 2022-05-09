@@ -28,9 +28,12 @@
 - ReactJS
 - Java
 - Linux
+- Kubernetes
+- Docker
 - Express
 - PostGres
 - MongoDB
+
 
 ---
 
@@ -58,10 +61,8 @@
 ---
 
 ## 📚 Currently Learning
-1. Docker
-2. Bash Scripting
-3. Kubernetes
-4. Terraform
+1. Bash Scripting
+2. Terraform
 ---
 
 ### 📕 Latest Blog Posts
