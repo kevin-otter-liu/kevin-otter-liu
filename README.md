@@ -58,8 +58,8 @@
 <a href="https://github.com/kevin-otter-liu/wagmiORngmiPredictor">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kevin-otter-liu&repo=wagmiORngmiPredictor&theme=tokyonight">
 </a>
----
 
+---
 ## 📚 Currently Learning
 1. Bash Scripting
 2. Terraform
